@@ -1,0 +1,1 @@
+# Following-is-the-provided-numPy-array.-return-array-of-items-in-the-third-column-from-all-rows
